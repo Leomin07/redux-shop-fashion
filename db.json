@@ -1,0 +1,129 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "title": "macbook",
+      "price": 100,
+      "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/M/r/1598535901_043J615A0589_C089_E12_GHC.jpg?imwidth=800",
+      "quantity": 10,
+      "availableSizes": [
+        "XS",
+        "XL",
+        "M"
+      ],
+      "brand": "DIOR",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "2",
+      "title": "iphone 112",
+      "price": "1",
+      "quantity": 10,
+      "availableSizes": [
+        "XS",
+        "XL",
+        "M"
+      ],
+      "brand": "DIOR",
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/grid_image_1/460x497/17f82f742ffe127f42dca9de82fb58b1/m/6/1611687107_183J652A0537_C585_E01_GH.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "3",
+      "title": "Minh",
+      "price": "2222",
+      "quantity": 10,
+      "availableSizes": [
+        "XS",
+        "XL",
+        "M"
+      ],
+      "brand": "CHANNEL",
+      "image": "https://i.pinimg.com/originals/99/57/57/995757a3a0b31688345f67406427a522.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "4",
+      "title": "Minh",
+      "price": "2222",
+      "availableSizes": [
+        "XS",
+        "L",
+        "M"
+      ],
+      "brand": "CHANNEL",
+      "image": "https://eugoriashop.com/wp-content/uploads/2020/06/chanel-logo-loose-tee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "5",
+      "title": "Minh",
+      "price": "2222",
+      "availableSizes": [
+        "XXL",
+        "L"
+      ],
+      "brand": "PRADA",
+      "image": "https://ae01.alicdn.com/kf/HTB1FIHjLpXXXXcfXVXXq6xXFXXXw/S-4XL-Fashion-Brand-T-Shirt-coco-channel-Women-VOGUE-Printed-T-shirt-Women-Tops-Tee.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "6",
+      "title": "Minh",
+      "price": "2222",
+      "availableSizes": [
+        "XS",
+        "XL"
+      ],
+      "brand": "PRADA",
+      "image": "https://cdn-images.farfetch-contents.com/15/95/25/91/15952591_29535322_300.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "7",
+      "title": "Minh",
+      "price": "2222",
+      "availableSizes": [
+        "XXL",
+        "L"
+      ],
+      "brand": "Louis Vuitton",
+      "image": "https://www.reserved.com/media/catalog/product/cache/1200/a4e40ebdc3e371adff845072e1c73f37/Y/M/YM640-00X-020_3.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "8",
+      "title": "Minh",
+      "price": "2222",
+      "availableSizes": [
+        "XS",
+        "XL"
+      ],
+      "brand": "Louis Vuitton",
+      "image": "https://i.pinimg.com/564x/9b/13/bd/9b13bdaad85f1d7ed1948f739d495a3c.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "order": [
+    {
+      "id": "6ffa6015-b2f0-4656-8867-4d735a0ed3a9",
+      "name": "asd",
+      "phone": "123",
+      "address": "asd",
+      "cartItems": [
+        {
+          "id": "1",
+          "title": "macbook",
+          "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/M/r/1598535901_043J615A0589_C089_E12_GHC.jpg?imwidth=800",
+          "price": 100,
+          "brand": "DIOR",
+          "availableSizes": "XS",
+          "quantity": 1
+        }
+      ],
+      "createAt": "07/13/2021",
+      "total": 100,
+      "status": "Success"
+    }
+  ]
+}
