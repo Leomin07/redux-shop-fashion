@@ -6,6 +6,7 @@ import {
   ORDER_DETAILS_SUCCESS,
   ORDER_DETAILS_FAIL,
 } from '../constants/orderConstants';
+import { EMPTY_CART } from '../constants/cartConstants';
 import axios from 'axios';
 export const createOrder = order => async dispatch => {
   dispatch({ type: ORDER_CREATE_REQUEST });
@@ -14,7 +15,13 @@ export const createOrder = order => async dispatch => {
       'https://fake-api-721.herokuapp.com/order',
       order
     );
-    dispatch({ type: ORDER_CREATE_SUCCESS, payload: data });
+    dispatch({
+      type: ORDER_CREATE_SUCCESS,
+      payload: data,
+    });
+    dispatch({
+      type: EMPTY_CART,
+    });
     localStorage.removeItem('cartItems');
   } catch (error) {
     dispatch({
